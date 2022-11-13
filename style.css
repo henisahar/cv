@@ -1,0 +1,17 @@
+
+h1{
+    color: rgb(66, 66, 187);
+    font-style:italic;
+    font-style:bolder;
+    text-decoration: underline;
+   
+
+}
+image{
+    float: right;
+}
+thead{
+    font-size: large;
+    text-decoration: underline;
+    color: rgb(32, 73, 150);
+}
